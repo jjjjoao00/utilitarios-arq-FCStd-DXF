@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="20mm"
+   viewBox="0 0 200 200"
+   version="1.2"
+   width="20mm"
+   id="svg637"
+   sodipodi:docname="indic-vista-corte-fachada.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace">
+  <sodipodi:namedview
+     id="namedview639"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="27.400388"
+     inkscape:cy="44.194174"
+     inkscape:window-width="1350"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g621" />
+  <title
+     id="title585">FreeCAD SVG Export</title>
+  <desc
+     id="desc587">Drawing page: Page exported from FreeCAD document: Unnamed</desc>
+  <defs
+     id="defs589" />
+  <g
+     id="Page"
+     inkscape:groupmode="layer"
+     inkscape:label="TechDraw">
+    <g
+       stroke-linecap="square"
+       stroke-width="1"
+       id="DrawingContent"
+       stroke="#000000"
+       fill-rule="evenodd"
+       stroke-linejoin="bevel"
+       fill="none"
+       transform="translate(-1382.9224,-951.32293)">
+      <g
+         stroke-linecap="square"
+         stroke-width="1"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g593">
+        <rect
+           x="0"
+           height="0"
+           y="0"
+           width="0"
+           id="rect591" />
+      </g>
+      <g
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         fill="#ffffff"
+         transform="translate(1485,1050)"
+         font-style="normal"
+         id="g597">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 0,-80.0215 -85,100 h 25 c 0,33.1371 26.8629,60 60,60 33.1371,0 60,-26.8629 60,-60 h 25 l -85,-100"
+           id="path595" />
+      </g>
+      <g
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         fill="#ffffff"
+         transform="translate(1485,1050)"
+         font-style="normal"
+         id="g601">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 60,19.9785 c 0,-33.1371 -26.8629,-60 -60,-60 -33.1371,0 -60,26.8629 -60,60 H 60"
+           id="path599" />
+      </g>
+      <g
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         fill="#ffffff"
+         transform="translate(1485,1050)"
+         font-style="normal"
+         id="g605">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m -60,19.9785 c 0,33.1371 26.8629,60 60,60 33.1371,0 60,-26.8629 60,-60 H -60"
+           id="path603" />
+      </g>
+      <g
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         fill="#ffffff"
+         transform="translate(1485,1050)"
+         font-style="normal"
+         id="g609">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 60,19.9785 h 25 l -85,-100 -85,100 h 25 c 0,-33.1371 26.8629,-60 60,-60 33.1371,0 60,26.8629 60,60"
+           id="path607" />
+      </g>
+      <g
+         stroke-linecap="round"
+         stroke-width="7"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g613">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -85,19.9785 h 25"
+           id="path611" />
+      </g>
+      <g
+         stroke-linecap="round"
+         stroke-width="7"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g617">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 60,19.9785 c 0,33.1371 -26.8629,60 -60,60 -33.1371,0 -60,-26.8629 -60,-60 0,-33.1371 26.8629,-60 60,-60 33.1371,0 60,26.8629 60,60"
+           id="path615" />
+      </g>
+      <g
+         stroke-linecap="round"
+         stroke-width="7"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g621">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M -60,19.9785 H 60"
+           id="path619" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.0312992"
+           d="m 37.525391,7.6216431 c -0.699646,0.085517 -1.315136,0.5053465 -1.728634,1.0651247 -3.662815,4.3211902 -7.345852,8.6253122 -10.992641,12.9600412 -0.502662,0.64621 -1.127584,1.239926 -1.390724,2.034628 -0.31719,0.940646 0.0095,2.056605 0.802057,2.660334 0.783364,0.637814 1.941721,0.681214 2.814027,0.198574 0.850453,-0.468895 1.686046,-0.968783 2.576369,-1.361513 2.482297,-1.138734 5.186462,-1.800883 7.915907,-1.912378 1.366897,-0.01146 2.759174,-0.04246 4.125249,0.18274 2.975765,0.413865 5.851767,1.478023 8.402207,3.062223 0.728157,0.445347 1.660573,0.609415 2.462565,0.2659 0.934785,-0.368004 1.565688,-1.362252 1.507102,-2.364225 C 54.005042,23.75431 53.665764,23.156998 53.226831,22.684011 49.220221,17.917778 45.175904,13.183136 41.14354,8.4388563 40.637581,7.8463598 39.844077,7.5659508 39.076182,7.6132876 c -0.516745,0.00389 -1.035006,-0.029344 -1.550791,0.00836 z"
+           id="path900"
+           transform="matrix(2.6458333,0,0,2.6458333,-102.0776,-98.67707)" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.0221319"
+           d="m 16.328366,32.764154 c -0.681737,0.0501 -1.31136,0.408615 -1.754209,0.921334 -1.163377,1.312494 -2.282921,2.663209 -3.424031,3.995023 -1.1885925,1.407458 -2.3948259,2.800473 -3.5586114,4.228599 -0.651679,0.79441 -0.7534504,2.005292 -0.1917654,2.875223 0.4478887,0.732266 1.3093967,1.167479 2.163283,1.124825 1.6624528,-0.0062 3.3252108,0.0134 4.9874678,-0.0126 0.813301,-0.0079 1.622415,-0.417873 2.061259,-1.110748 0.293388,-0.425377 0.393897,-0.945559 0.409299,-1.453766 0.175009,-2.493753 0.784168,-4.956121 1.790522,-7.244432 0.336596,-0.802966 0.195204,-1.780172 -0.365685,-2.448108 -0.50685,-0.623584 -1.321432,-0.942478 -2.117529,-0.875348 z"
+           id="path902"
+           transform="matrix(2.6458333,0,0,2.6458333,-102.0776,-98.67707)" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.0156496"
+           d="m 60.543762,32.664215 c -0.786392,0.0057 -1.557272,0.417729 -1.988336,1.077221 -0.429201,0.634285 -0.52107,1.471478 -0.264075,2.190296 0.184655,0.497409 0.410383,0.978897 0.584918,1.48042 0.73579,2.010795 1.167446,4.131494 1.281839,6.269434 0.05233,0.871745 0.623688,1.686919 1.42772,2.02915 0.398327,0.186206 0.844302,0.21957 1.277972,0.204883 1.673073,-0.0035 3.346319,0.0088 5.019273,-0.0122 0.828344,-0.02133 1.626628,-0.503019 2.023187,-1.231848 0.425616,-0.744898 0.399674,-1.71725 -0.0612,-2.440385 -0.242545,-0.365299 -0.552811,-0.679298 -0.827883,-1.01968 -2.047466,-2.410101 -4.090662,-4.823887 -6.149803,-7.224029 -0.354592,-0.409491 -0.711482,-0.84734 -1.216159,-1.077052 -0.342037,-0.169676 -0.726411,-0.249567 -1.107453,-0.246206 z"
+           id="path904"
+           transform="matrix(2.6458333,0,0,2.6458333,-102.0776,-98.67707)" />
+        <text
+           xml:space="preserve"
+           style="font-size:50.3104px;fill:#000000;stroke:#000000;stroke-width:3.06072"
+           x="-29.941582"
+           y="9.9171686"
+           id="text941"
+           transform="scale(0.85912397,1.1639764)"
+           freecad:editable="Numero-Desenho"><tspan
+             sodipodi:role="line"
+             id="tspan939"
+             style="font-size:50.3104px;stroke-width:3.06073"
+             x="-29.941582"
+             y="9.9171686">xx</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:36.9181px;fill:#000000;stroke:#000000;stroke-width:2.88963"
+           x="-22.048214"
+           y="51.861633"
+           id="text945"
+           transform="scale(0.91068245,1.0980776)"
+           freecad:editable="Numero-Prancha"><tspan
+             sodipodi:role="line"
+             id="tspan943"
+             style="font-size:36.9181px;stroke-width:2.88965"
+             x="-22.048214"
+             y="51.861633">xx</tspan></text>
+      </g>
+      <g
+         stroke-linecap="round"
+         stroke-width="7"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g625">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 60,19.9785 H 85"
+           id="path623" />
+      </g>
+      <g
+         stroke-linecap="round"
+         stroke-width="7"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g629">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 0,-80.0215 -85,100"
+           id="path627" />
+      </g>
+      <g
+         stroke-linecap="round"
+         stroke-width="7"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g633">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 0,-80.0215 85,100"
+           id="path631" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata641">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>FreeCAD SVG Export</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="297mm"
+   viewBox="0 0 2100 2970"
+   version="1.2"
+   width="210mm"
+   id="svg1366"
+   sodipodi:docname="caida-telhado.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace">
+  <sodipodi:namedview
+     id="namedview1368"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="7.6260906"
+     inkscape:cx="392.59958"
+     inkscape:cy="538.02141"
+     inkscape:window-width="1350"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Page" />
+  <title
+     id="title1338">FreeCAD SVG Export</title>
+  <desc
+     id="desc1340">Drawing page: Page exported from FreeCAD document: Unnamed</desc>
+  <defs
+     id="defs1342" />
+  <g
+     id="Page"
+     inkscape:groupmode="layer"
+     inkscape:label="TechDraw">
+    <g
+       stroke-linecap="square"
+       stroke-width="1"
+       id="DrawingContent"
+       stroke="#000000"
+       fill-rule="evenodd"
+       stroke-linejoin="bevel"
+       fill="none"
+       transform="translate(-457.14487,447.03269)">
+      <g
+         stroke-linecap="square"
+         stroke-width="1"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g1346">
+        <rect
+           x="0"
+           height="0"
+           y="0"
+           width="0"
+           id="rect1344" />
+      </g>
+      <g
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         fill="#ffffff"
+         transform="translate(1485,1050)"
+         font-style="normal"
+         id="g1350">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="M 0,30 60,-30 H -60 L 0,30"
+           id="path1348" />
+      </g>
+      <g
+         stroke-linecap="round"
+         stroke-width="7"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g1354">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M -60,-30 H 60"
+           id="path1352" />
+      </g>
+      <g
+         stroke-linecap="round"
+         stroke-width="7"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g1358">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 0,30 -60,-30"
+           id="path1356" />
+      </g>
+      <g
+         stroke-linecap="round"
+         stroke-width="7"
+         font-weight="400"
+         stroke="#000000"
+         font-family="'MS Shell Dlg 2'"
+         font-size="29.1042px"
+         stroke-linejoin="bevel"
+         fill="none"
+         transform="translate(1485,1050)"
+         stroke-opacity="1"
+         font-style="normal"
+         id="g1362">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 0,30 60,-30"
+           id="path1360" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:35.2778px;fill:#000000;stroke:#000000;stroke-width:2.34986"
+       x="864.03046"
+       y="1639.8145"
+       id="text1374"
+       transform="scale(1.1314516,0.8838204)"
+       freecad:editable="Porcentagem-telhado"><tspan
+         sodipodi:role="line"
+         id="tspan1372"
+         style="font-size:35.2778px;stroke-width:2.34987"
+         x="864.03046"
+         y="1639.8145">xx %</tspan></text>
+  </g>
+  <metadata
+     id="metadata1370">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>FreeCAD SVG Export</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
